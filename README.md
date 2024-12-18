@@ -1,4 +1,4 @@
 # First-Project
 this is my firsts git repositiry
 <br>
-author- RonitShrestha
+author- RonitShrestha(thapathali) 
